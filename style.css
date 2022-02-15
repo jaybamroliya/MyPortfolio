@@ -521,16 +521,16 @@ footer .text span a:hover{
 }
 
 .button1 {background-color: #4CAF50;} Green */
-a1:link, a1:visited {
+a:link, a:visited {
   background-color: #4936f4;
   color: white;
-  padding: 35px 35px;
+  padding: 20px 20px;
   text-align: center;
   text-size-adjust: 35;
   text-decoration: none;
   display: inline-block;
 }
 
-a1:hover, a1:active {
+a:hover, a:active {
   background-color: rgb(76, 0, 255);
 }
